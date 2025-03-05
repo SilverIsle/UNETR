@@ -14,8 +14,8 @@ This repository implements the **UNETR (UNET with Transformers)** architecture f
 
 ### Clone the repository:
 ```bash
-git clone https://github.com/your_username/unetr_mri_segmentation.git
-cd unetr_mri_segmentation
+git clone https://github.com/SilverIsle/UNETR.git
+cd UNETR
 ```
 
 ### Install dependencies:
